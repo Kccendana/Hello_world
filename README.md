@@ -65,7 +65,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://kccendana.github.io/Hello_world/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -75,7 +75,7 @@
 
 ### Prerequisites
 
-In order to run this project you need: Code editor like VSCode.
+In order to run this project you need: text editor like VSCode.
 
 
 
