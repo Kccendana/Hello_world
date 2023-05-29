@@ -35,7 +35,6 @@
 
 # 📖 Hello World <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Hello World]** is a a simple project that help me practice with markup language with added CSS styling. This is also a practice on how to create a pull request using a Github flow.
 
@@ -55,7 +54,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **Create a repository**
 - **Use the best practices of HTML and CSS**
